@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Yikes
+  - Vase
+  - Enemy
+  - Slender
+  - Knife
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Vase
+  - Stalactite
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2009542733
+    locked: 0
+  - name: Untouchable
+    uniqueID: 548588061
+    locked: 0
+  - name: Torch
+    uniqueID: 3685743227
+    locked: 0
+  - name: Obstacles
+    uniqueID: 710430077
+    locked: 0
+  - name: Enemy
+    uniqueID: 291267293
+    locked: 0
+  - name: Player
+    uniqueID: 888854823
+    locked: 0
