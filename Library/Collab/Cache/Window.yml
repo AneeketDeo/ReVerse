@@ -15,8 +15,8 @@ MonoBehaviour:
   SimpleSelectedItems:
     m_Keys:
     - .collabignore
-    - Assets/Scripts/CameraAnchor.cs
-    - Assets/Scripts/CameraAnchor.cs.meta
+    - Assets/BossMovement.cs
+    - Assets/BossMovement.cs.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
     - ProjectSettings/ProjectVersion.txt

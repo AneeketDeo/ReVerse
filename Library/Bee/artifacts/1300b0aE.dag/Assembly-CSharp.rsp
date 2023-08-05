@@ -348,6 +348,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/com.unity.cinemachine.editor.ref.dll"
+"Assets/BossMovement.cs"
 "Assets/MeleeWeaponTrail/Scripts/Interpolate.cs"
 "Assets/MeleeWeaponTrail/Scripts/MeleeWeaponTrail.cs"
 "Assets/Scripts/AudioManager.cs"

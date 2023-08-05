@@ -13,7 +13,7 @@ public class ExtendedCustomMonoBehaviour : MonoBehaviour
 
     public bool didInit;
     public bool canControl;
-    public static bool reverseMode = false;
+    
     public static bool isGrounded;
 
     public enum PlayerState
